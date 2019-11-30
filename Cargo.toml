@@ -1,9 +1,12 @@
 [package]
 name = "sliding-window-aggregation"
+description = "Sliding window aggregation"
 version = "0.1.0"
 authors = ["koba-e964 <3303362+koba-e964@users.noreply.github.com>"]
-edition = "2018"
 rust = "1.2"
+categories = ["algorithms", "data-structures"]
+license = "MIT"
+repository = "https://github.com/koba-e964/sliding-window-aggregation"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
