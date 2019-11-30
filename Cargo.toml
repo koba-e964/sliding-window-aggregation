@@ -7,6 +7,7 @@ rust = "1.2"
 categories = ["algorithms", "data-structures"]
 license = "MIT"
 repository = "https://github.com/koba-e964/sliding-window-aggregation"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
